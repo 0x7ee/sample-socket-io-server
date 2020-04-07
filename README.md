@@ -1,4 +1,4 @@
-# sample-socket-io-server
+# sample-socket-io-echo-server
 
 This is a basic websocket server with node.js and socket.io.
 
